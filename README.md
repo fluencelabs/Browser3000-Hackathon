@@ -1,19 +1,19 @@
 # Fluence Aqua P2P Integration Challenge
 
-Hello Browser3000 Hackers,
+Hello Browsers 3000 Hackers,
 
-We are thrilled to participate with you in pushing the Web3 boundaries with the Browser3000 Fluence challenge.
+We are thrilled to participate with you in pushing the Web3 boundaries with the Browsers 3000 Fluence challenge.
 
 ## The Opportunity
 
-Use Fluence's Aqua in the browser to compose a p2p solution integrating with IPFS. Examples of what we think pushes the limit include but isn't limited to creating browser-to-browser apps, additional p2p layers for faster content discovery, programming strategies for obtaining data from many peers, offloading content rendering to remote nodes or p2p-based real-time notification pipelines to the browser.
+Use Fluence's Aqua in the browser to compose a p2p solution integrating with IPFS. Examples of what we think pushes the limit include but aren't limited to creating browser-to-browser apps, additional p2p layers for faster content discovery, programming strategies for obtaining data from many peers, offloading content rendering to remote nodes or p2p-based real-time notification pipelines to the browser.
 
 ## The Prizes
 
 USD 1,000 for the best overall solution and USD 100 for every submission that is a fully functional project using Fluence's Aqua to implement a decentralized workflow utilizing IPFS.
 
 ## The Judging
-The grand prize winner is the highest chosen project by the Browser3000 Judges panel. The USD 100 prizes are contingent on the timely submissions of a functional project using Fluence's Aqua to implement a decentralized workflow utilizing IPFS.
+The grand prize winner is the highest chosen project by the Browsers 3000 Judges panel. The USD 100 prizes are contingent on the timely submissions of a functional project using Fluence's Aqua to implement a decentralized workflow utilizing IPFS.
 
 ## The Submission
 
